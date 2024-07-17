@@ -18,3 +18,6 @@ Make sure you have the following installed:
    git clone https://github.com/joel0x/JobsPortal-lokal-task
    cd JobsPortal-lokal-task
    npx expo start
+   
+**Link for Evaluation**
+[Demo](https://drive.google.com/file/d/1gJjX-3pM4s07ON1BneZVDv_YR6cA5_Bd/view)
